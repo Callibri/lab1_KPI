@@ -1,6 +1,6 @@
-# Лабораторна робота 1. CRUD
+﻿# Лабораторна робота 1. CRUD
 
-![tests](https://github.com/Callibri/lab1/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Callibri/lab1_KPI/actions/workflows/tests.yml/badge.svg)
 
 REST API для обліку фільмів і їхніх касових зборів. Стек: Python, FastAPI, SQLAlchemy, SQLite, JWT.
 
